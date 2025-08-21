@@ -1,6 +1,7 @@
 # ES6 Bank Account Management System
 
-This project demonstrates various ES6 (ECMAScript 2015) concepts through a simple bank account management system. Below are the key ES6 concepts used in this project:
+This Lesson demonstrates various ES6 (ECMAScript 2015) concepts through a simple bank account management system very basic.For More Detail use the docs notes created,
+Below are the key ES6 concepts used in this project:
 
 ## ES6 Concepts Explained
 
